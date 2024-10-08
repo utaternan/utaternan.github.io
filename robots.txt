@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utaternan.github.io/sitemap.html.gz
+Sitemap: https://utaternan.github.io/app/sitemap.html.gz
+Sitemap: https://utaternan.github.io/assets/sitemap.html.gz
+Sitemap: https://utaternan.github.io/css/sitemap.html.gz
+Sitemap: https://utaternan.github.io/data/sitemap.html.gz
+Sitemap: https://utaternan.github.io/includes/sitemap.html.gz
+Sitemap: https://utaternan.github.io/item/sitemap.html.gz
+Sitemap: https://utaternan.github.io/src/sitemap.html.gz
